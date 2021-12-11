@@ -1,6 +1,6 @@
 ### Hi there 👋
 2019年からc#で遊んでます。
-学校でサーバー構築勉強してます。
+学校でサーバー構築の勉強してます。
 
 <!--
 **Conripi/Conripi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
